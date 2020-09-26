@@ -125,6 +125,12 @@ title = "PayPal"
 icon = "fab fa-paypal"
 
 [[social_icons]]
+id = "strava"
+url = "https://www.strava.com/athletes/%s"
+title = "strava"
+icon = "fab fa-strava"
+
+[[social_icons]]
 id = "telegram"
 url = "https://telegram.me/%s"
 title = "Telegram"
